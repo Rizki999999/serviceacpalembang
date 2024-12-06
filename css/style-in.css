@@ -1,0 +1,9 @@
+/* CSS Document */
+  
+	  @media screen and (min-width: 140px) and (max-width: 580px) {
+		  .img_contak{
+			  max-width: 60px;
+		  }
+		  
+}
+
